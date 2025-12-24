@@ -1,0 +1,1 @@
+Proyecto literalura realiza un consulta en gutendex.com y guarda los datos en un base de datos consistente en dos tablas autores y libros. Luego realiza diferentes consultas sobre los libros consultados 
